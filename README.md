@@ -1,2 +1,7 @@
 # Admin-loger
-bu deneme amaçlı yapılmış admin panel bulucudur 
+
+alozzers
+
+bu deneme amaçlı yapılmış admin panel bulucudur
+
+lütfen bu projeyi çalıp ve başka yerlerde  paylaşmayınız. 
