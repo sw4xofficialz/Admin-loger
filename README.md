@@ -1,6 +1,6 @@
 # Admin-loger
 
-alozzers
+Instagram: (alozzers)
 
 bu deneme amaçlı yapılmış admin panel bulucudur
 
